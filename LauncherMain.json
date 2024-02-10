@@ -1,12 +1,12 @@
 {
   "ServerOn": "True",
   "MessageServerFalse": "",
-  "Version": "1.6",
+  "Version": "1.0",
   "gamesizeOriginal": "-",
   "gamesizeOriginalFix": "-",
   "gamesizeENBLow": "-",
   "gamesizeENBSetting": "-",
   "gamesizeENBHigh": "-",
-  "UpdateWithLink": "http://191.96.92.88/launcher/SupplyLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://191.96.92.88/launcher/SupplyUpdateFileReplace.tmp"
+  "UpdateWithLink": "-/launcher/SupplyLauncherUpdate.tmp",
+  "LUpdateWithLink": "-/launcher/SupplyUpdateFileReplace.tmp"
 }
