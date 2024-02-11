@@ -7,6 +7,9 @@
   "gamesizeENBLow": "-",
   "gamesizeENBSetting": "-",
   "gamesizeENBHigh": "-",
+  "ASIC": "-1",
+  "CSC": "-1",
+  "CBURLLIST": "-",
   "UpdateWithLink": "http://85.203.4.138/launcher/LegendLauncherUpdate.tmp",
   "LUpdateWithLink": "http://85.203.4.138/launcher/LegendUpdateFileReplace.tmp"
 }
