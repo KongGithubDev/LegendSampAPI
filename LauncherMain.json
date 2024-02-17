@@ -10,6 +10,7 @@
   "ASIC": "-1",
   "CSC": "-1",
   "CBURLLIST": "modloader,false|modloader.asi,false|cleo,false|cleo.asi,false|moonloader,false|moonloader.asi,false",
+  "FFC": "-1",
   "UpdateWithLink": "http://85.203.4.138/launcher/LegendLauncherUpdate.tmp",
   "LUpdateWithLink": "http://85.203.4.138/launcher/LegendUpdateFileReplace.tmp"
 }
