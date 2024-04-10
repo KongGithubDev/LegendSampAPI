@@ -7,7 +7,7 @@
   "gamesizeENBLow": "-",
   "gamesizeENBSetting": "-",
   "gamesizeENBHigh": "-",
-  "ASIC": "-1",
+  "ASIC": "12",
   "CSC": "-1",
   "CBURLLIST": "modloader,false|modloader.asi,false|cleo,false|cleo.asi,false|moonloader,false|moonloader.asi,false",
   "FFC": "-1",
