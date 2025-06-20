@@ -1,7 +1,7 @@
 {
-  "ServerOn": "False",
+  "ServerOn": "True",
   "MessageServerFalse": "",
-  "Version": "1.8Fix5",
+  "Version": "1.8Fix6",
   "gamesizeOriginal": "-",
   "gamesizeOriginalFix": "-",
   "gamesizeENBLow": "-",
