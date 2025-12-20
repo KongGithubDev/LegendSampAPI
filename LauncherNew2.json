@@ -1,0 +1,53 @@
+{
+  "launcherVer": 1,
+  "launcherUrl": "http://samp-legend.net/legendlauncher-api/launcher.exe",
+  "launcherLogo": "https://img2.pic.in.th/pic/KongProjectLogo.png",
+  "discordUrl": "https://discord.gg/x594Tyhc7h",
+  "facebookUrl": "https://www.facebook.com/profile.php?id=61558318001230&mibextid=LQQJ4d",
+  "games": [
+    {
+      "name": "Legend Of Roleplay",
+      "startCmd": "samp.exe -c -n {name} -h ip.samp-legend.net -p 7777",
+      "clientVer": 1,
+      "clientUrl": "http://168.222.20.228/urcitylauncher/files-update-backup.rar",
+      "patchUrls": [
+        "http://localhost/launcher/patch1.zip"
+      ],
+      "maintenance": false,
+      "serverIp": "ip.samp-legend.net",
+      "serverPort": 7777,
+      "logo": "https://img5.pic.in.th/file/secure-sv1/Logo_Legend_New1.png",
+      "banners": [
+        {
+          "image": "https://media.discordapp.net/attachments/1127685540653846538/1351217668803526666/LG-KP-445.png?ex=69476b44&is=694619c4&hm=a078ea009706a19786df22075486fbf5849b90f5d535142920a10ba9a7a4d0f6&=&format=webp&quality=lossless&width=1400&height=380",
+          "title": "Welcome to Legend Roleplay",
+          "description": "Join the most immersive roleplay experience today!"
+        },
+        {
+          "image": "https://media.discordapp.net/attachments/1127685540653846538/1353310225805086730/Purple_Futuristic_Gaming_Youtube_Channel_art_20240813_155924_0000.png?ex=6947c7dd&is=6946765d&hm=afef7c97648884fed7f12bb1997392922279c1a14eab0e3e3f2bb27c108e85c8&=&format=webp&quality=lossless&width=1400&height=380",
+          "title": "New Event: Live Stream",
+          "description": "Details."
+        }
+      ],
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+        "https://www.youtube.com/watch?v=3tmd-ClpJxA",
+        "https://www.youtube.com/watch?v=L_jWHffIx5E"
+      ]
+    },
+    {
+      "name": "Legend Training",
+      "startCmd": "gta_sa.exe -c -h ip.samp-legend.net -p 7777 -n {name}",
+      "clientVer": 1,
+      "clientUrl": "http://localhost/launcher/client2.zip",
+      "patchUrls": [],
+      "maintenance": true,
+      "serverIp": "ip.samp-legend.net",
+      "serverPort": 7777,
+      "logo": "https://img5.pic.in.th/file/secure-sv1/Logo_Legend_New1.png",
+      "banners": [],
+      "videoUrls": []
+    }
+  ]
+}
