@@ -8,6 +8,8 @@
     {
       "name": "Legend Of Roleplay",
       "startCmd": "samp.exe ip.samp-legend.net:7777",
+      "forceReinstall": true,
+      "forceReinstallTimestamp": 1766246368
       "clientVer": 1,
       "clientUrl": "http://samp-legend.net/legendlauncher-api/gamefiles.zip",
       "patchUrls": [
