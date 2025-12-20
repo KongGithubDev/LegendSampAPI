@@ -9,9 +9,9 @@
       "name": "Legend Of Roleplay",
       "startCmd": "samp.exe -c -n {name} -h ip.samp-legend.net -p 7777",
       "clientVer": 1,
-      "clientUrl": "http://168.222.20.228/urcitylauncher/files-update-backup.rar",
+      "clientUrl": "http://samp-legend.net/legendlauncher-api/gamefiles.zip",
       "patchUrls": [
-        "http://localhost/launcher/patch1.zip"
+        "http://samp-legend.net/legendlauncher-api/patch-20-12-68.zip"
       ],
       "maintenance": false,
       "serverIp": "ip.samp-legend.net",
