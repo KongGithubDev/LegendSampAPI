@@ -11,8 +11,7 @@
       "clientVer": 1,
       "clientUrl": "http://samp-legend.net/legendlauncher-api/gamefiles.zip",
       "patchUrls": [
-        "http://samp-legend.net/legendlauncher-api/patch-20-12-68.zip",
-        "http://samp-legend.net/legendlauncher-api/patch-20-12-68-tester.zip"
+        "http://samp-legend.net/legendlauncher-api/patch-20-12-68.zip"
       ],
       "maintenance": false,
       "serverIp": "ip.samp-legend.net",
