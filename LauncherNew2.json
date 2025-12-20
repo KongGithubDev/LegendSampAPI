@@ -7,7 +7,7 @@
   "games": [
     {
       "name": "Legend Of Roleplay",
-      "startCmd": "samp.exe -c -n {name} -h ip.samp-legend.net -p 7777",
+      "startCmd": "samp.exe ip.samp-legend.net:7777",
       "clientVer": 1,
       "clientUrl": "http://samp-legend.net/legendlauncher-api/gamefiles.zip",
       "patchUrls": [
