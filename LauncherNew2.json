@@ -21,14 +21,19 @@
       "logo": "https://img5.pic.in.th/file/secure-sv1/Logo_Legend_New1.png",
       "banners": [
         {
-          "image": "https://media.discordapp.net/attachments/1127685540653846538/1351217668803526666/LG-KP-445.png?ex=69476b44&is=694619c4&hm=a078ea009706a19786df22075486fbf5849b90f5d535142920a10ba9a7a4d0f6&=&format=webp&quality=lossless&width=1400&height=380",
+          "image": "https://img2.pic.in.th/pic/image67183f1399ac29ea.png",
           "title": "Welcome to Legend Roleplay",
           "description": "Join the most immersive roleplay experience today!"
         },
         {
-          "image": "https://media.discordapp.net/attachments/1127685540653846538/1353310225805086730/Purple_Futuristic_Gaming_Youtube_Channel_art_20240813_155924_0000.png?ex=6947c7dd&is=6946765d&hm=afef7c97648884fed7f12bb1997392922279c1a14eab0e3e3f2bb27c108e85c8&=&format=webp&quality=lossless&width=1400&height=380",
-          "title": "New Event: Live Stream",
-          "description": "Details."
+          "image": "https://img5.pic.in.th/file/secure-sv1/image5ea979cb2986c69c.png",
+          "title": "Casino System",
+          "description": "Experience a realistic casino system filled with excitement, risk, and rewards."
+        },
+        {
+          "image": "https://img2.pic.in.th/pic/imagee1aead224938cca6.png",
+          "title": "Event: WarZone",
+          "description": "Enter the battlefield and fight for dominance. Victory belongs to the strongest team."
         }
       ],
       "videoUrls": [
