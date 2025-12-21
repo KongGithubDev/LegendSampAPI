@@ -15,6 +15,13 @@
       "patchUrls": [
         "http://samp-legend.net/legendlauncher-api/patch-20-12-68.zip"
       ],
+      "enbBaseUrl": "http://samp-legend.net/legendlauncher-api/enb/",
+      "enbFiles": [
+        { "fileName": "enbeffect.fx", "fileMD5": "860BCF2574BD01199CF0DFE2898A5F24" },
+        { "fileName": "enblocal.ini", "fileMD5": "5FBE36BA9B1AC41541E136E2476D9939" },
+        { "fileName": "enbseries.asi", "fileMD5": "06950EB8E1A2F04423F1A8E6AE175CE6" },
+        { "fileName": "enbseries.ini", "fileMD5": "B7E4571AAF381EEC4A4ED9B17098456E" }
+      ],
       "maintenance": false,
       "serverIp": "ip.samp-legend.net",
       "serverPort": 7777,
