@@ -13,8 +13,10 @@
       "clientVer": 1,
       "clientUrl": "http://samp-legend.net/legendlauncher-api/gamefiles.zip",
       "patchUrls": [
-        "http://samp-legend.net/legendlauncher-api/patch-20-12-68.zip"
+        "http://samp-legend.net/legendlauncher-api/patch-20-12-68.zip",
+		    "http://samp-legend.net/legendlauncher-api/patch-test-cb.zip"
       ],
+	  "cheatblockerData": "http://samp-legend.net/legendlauncher-api/cb.json",
       "enbBaseUrl": "http://samp-legend.net/legendlauncher-api/enb/",
       "enbFiles": [
         { "fileName": "enbeffect.fx", "fileMD5": "860BCF2574BD01199CF0DFE2898A5F24" },
