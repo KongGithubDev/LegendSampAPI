@@ -28,27 +28,13 @@
       "serverPort": 7777,
       "logo": "https://img5.pic.in.th/file/secure-sv1/Logo_Legend_New1.png",
       "banners": [
-        {
-          "image": "https://img5.pic.in.th/file/secure-sv1/image-2aa54c45d77ddf4a5.png",
-          "title": "Welcome to Legend Roleplay",
-          "description": "Join the most immersive roleplay experience today!"
-        },
-        {
+		{
           "image": "https://img2.pic.in.th/pic/image-129c518add2df8ffe.png",
           "title": "CheatBlocker KP-CB-1.01.3",
           "description": "An updated anti-cheat system with enhanced detection of cheat files and programs for improved protection."
-        },
-        {
-          "image": "https://img5.pic.in.th/file/secure-sv1/image5ea979cb2986c69c.png",
-          "title": "Casino System",
-          "description": "Experience a realistic casino system filled with excitement, risk, and rewards."
-        },
-        {
-          "image": "https://img2.pic.in.th/pic/imagee1aead224938cca6.png",
-          "title": "Event: WarZone",
-          "description": "Enter the battlefield and fight for dominance. Victory belongs to the strongest team."
         }
       ],
+	  "bannersMoreUrl": "http://samp-legend.net/legendlauncher-api/banners.json",
       "videoUrls": [
         "https://www.youtube.com/watch?v=dgc_SeO3TZw",
         "https://www.youtube.com/watch?v=AA3FHHa0b5M",
