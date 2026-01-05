@@ -1,5 +1,5 @@
 {
-  "ServerOn": "False",
+  "ServerOn": "True",
   "MessageServerFalse": "End of support for this version.",
   "Version": "1.8Fix6",
   "gamesizeOriginal": "-",
@@ -16,4 +16,5 @@
   "LUpdateWithLink": "http://api.samp-legend.net/launcher/LegendUpdateFileReplace.tmp",
   "PIC": "https://img2.imgbiz.com/imgbiz/CB.png"
 }
+
 
